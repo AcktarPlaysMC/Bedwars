@@ -22,5 +22,5 @@ ItsMeAcktar
 The SavageSB Team
 
 ## Links
-www.SavageSB.cf
+www.SavageSB.cf <br>
 Discord.SavageSB.cf
