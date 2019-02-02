@@ -18,7 +18,7 @@ Yes, You Saw It Right . Its A Premium Bedwars Plugin For The PocketMine Communit
 This Plugin Is Licenced Under The "MIT LICENCE" Which You Can Find Among The Source Codes
 
 ## Credits
-ItsMeAcktar
+ItsMeAcktar <br>
 The SavageSB Team
 
 ## Links
